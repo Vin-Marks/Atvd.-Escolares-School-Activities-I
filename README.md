@@ -6,7 +6,7 @@ Claro, aqui está o conteúdo do arquivo README no formato desejado:
 
 ## Nome: Vinícius
 
-### Escola Técnica Federal Cícero Dias
+### Escola Técnica Estadual Cícero Dias
 
 Este repositório contém os exercícios da primeira atividade de Python, focando na estrutura de decisão.
 
